@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-I'm Dom Murphy, and when I'm not studying for my degree in Computer/Electrical Engineering, I enjoy running, playing soccer, and working with start-ups. 
+I'm Dom, and when I'm not studying for my degree in Computer/Electrical Engineering, I enjoy running, playing soccer, and working with start-ups. 
 If you'd like to get to know me more, please feel free to reach out to ddmurphy@bu.edu, as I'd love hearing from you!
 
-Until then, here's my filled out template GitHub kindly provided me:
+Until then, here's a filled out template GitHub kindly provided me:
 - 🔭 I’m currently working on a Boston University themed Crossy Road app in Java and a Verilog FPGA,VGA Chess Game.
 - 🌱 I’m currently learning undergraduate engineering with a minor in applied statistics.
 - 👯 I’m looking to collaborate on anything! 
