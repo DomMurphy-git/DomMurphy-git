@@ -4,10 +4,9 @@ I'm Dom, and when I'm not studying for my degree in Computer/Electrical Engineer
 If you'd like to get to know me more, please feel free to reach out to ddmurphy@bu.edu, as I'd love hearing from you!
 
 Until then, here's a filled out template GitHub kindly provided me:
-- 🔭 I’m currently working on a Boston University themed Crossy Road app in Java and a Verilog FPGA,VGA Chess Game.
+- 🔭 I’m currently working at Boston Universities IT Service Desk.
 - 🌱 I’m currently learning undergraduate engineering with a minor in applied statistics.
 - 👯 I’m looking to collaborate on anything! 
-- 🤔 I’m looking for help with finding good new books. 
 - 💬 Ask me about anything!
 - 📫 How to reach me: ddmurphy@bu.edu
 - 😄 Pronouns: He/Him
