@@ -4,8 +4,8 @@ I'm Dom, and when I'm not studying for my degree in Computer/Electrical Engineer
 If you'd like to get to know me more, please feel free to reach out to ddmurphy@bu.edu, as I'd love hearing from you!
 
 Until then, here's a filled out template GitHub kindly provided me:
-- 🔭 I’m currently working at Boston Universities IT Service Desk.
-- 🌱 I’m currently learning undergraduate engineering with a minor in applied statistics.
+- 🔭 I’m currently working at Boston University's IT Service Desk.
+- 🌱 I’m currently learning undergraduate engineering with a concentration in sustainable energy.
 - 👯 I’m looking to collaborate on anything! 
 - 💬 Ask me about anything!
 - 📫 How to reach me: ddmurphy@bu.edu
